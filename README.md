@@ -9,4 +9,4 @@ Solving various problem statements using Machine Learning.
 2. [ANN Implementation](./ANN_Implementation_MATLAB)
    
 ### Python
-1. [Loan Prediction Using Machine Learning](https://github.com/Anuvrat-NITSKM/Machine_Learning_Projects/tree/main/Loan-Prediction-Using-ML%26Python%22)
+1. [Loan Prediction Using Machine Learning](./Loan_Prediction_Python)
